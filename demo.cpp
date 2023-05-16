@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
  
-// main() 是程序开始执行的地方
- 
 int main()
 {
-   cout << "Hello World"; // 输出 Hello World
+   int d = 3, f = 5;
+   printf("%d-%d", d, f);
    return 0;
 }
